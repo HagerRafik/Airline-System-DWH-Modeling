@@ -24,8 +24,6 @@ kind of analysis for decision support.
 study. Output should be an image or PDF. State why did you choose this
 particular data model design? What does the data represent? (Details about each
 model component is necessary).
-![edit](https://github.com/HagerRafik/Airline-System-DWH-Modeling/assets/77872656/9572d581-9c51-48fe-98f9-f10ba27b14ae)
-
 > 3. Translate the logical data model to a physical data model which includes the
 following: tables, columns (name, data type), primary indexes, and foreign indexes
 and state why these types of indexes are used for each column. Output should be a
@@ -38,4 +36,5 @@ described in the case-study above. List the business question with each query.
 Output should be a Word file
 > 6. A report of maximum 2 pages is required to elaborate different types of indexes
 used in Data warehousing and their usage
-🖥
+![edit](https://github.com/HagerRafik/Airline-System-DWH-Modeling/assets/77872656/9572d581-9c51-48fe-98f9-f10ba27b14ae)
+
