@@ -36,3 +36,4 @@ described in the case-study above. List the business question with each query.
 Output should be a Word file
 > 6. A report of maximum 2 pages is required to elaborate different types of indexes
 used in Data warehousing and their usage
+🖥
