@@ -37,6 +37,8 @@ Output should be a Word file
 > 6. A report of maximum 2 pages is required to elaborate different types of indexes
 used in Data warehousing and their usage
 
-# 📌Project phases:
+### 📌Project phases:
+> 1. extracted and understanding each business process objectives, terminologies and activities from the project assigned PDF.
+> 2. created a 
 
 
