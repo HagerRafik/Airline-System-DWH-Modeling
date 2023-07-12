@@ -1,5 +1,5 @@
 # Airline-System-DWH-Modeling
-### Project Description
+### 📌 Project Description
 A major airline company decided to hire you to assist the executive management to analyze
 their current business processes and expand the company by discovering new opportunities.
 Executives decided that the first deliverable should focus on the flight activity to ensure good
@@ -18,7 +18,7 @@ Analysis should include interaction type and problem severity (if issue exists)
 Apply dimensional modeling process to design the logical and physical design to support such
 kind of analysis for decision support.
 
-### project prequirments:
+### 📌 project prequirments:
 > 1. State the dimensional modeling process for each business process
 > 2. Using any diagramming tool you like, construct a logical data model for this case
 study. Output should be an image or PDF. State why did you choose this
@@ -38,25 +38,26 @@ Output should be a Word file
 used in Data warehousing and their usage
 
 ### 📌 Project phases:
-1. Extracted and understood each business process objectives, terminologies, and activities from the project assigned PDF.
+1. Extracted and investigated each business process's objectives, terminologies, and activities from the assigned case study PDF.
 
-2. Created a draft Word doc with our findings regarding each department's needed queries that we need to answer with our model.
+2. Created a draft Word document with our findings regarding each department's needed queries that we need to answer with our model.
   
-3. Created a prototype ERD in Excel with about 5 records for each table to visualize how the business would flow in the transactional DB. starting from a customer purchasing a ticket, how the purchase is recorded, what tables this transaction could affect, how this action flows, and making sure that the whole process is logical without any gaps.
+3. Developed a prototype ERD in Excel with about 5 records for each table to visualize the flow of the transactional DB. Ensure the process is logical without any gaps, starting from a customer purchasing a ticket, recording the purchase, and identifying the tables that the transaction could affect.
 
-4. Now we can plan our DWH that in real life would extract the needed data from the transactional database.
+5. At this phase we were able to  plan our DWH that in real life would extract the needed data from the transactional database.
    
-5. Created a logical data model for each business process ( Marketing team, finance team, customer satisfaction interested parties).
+6. Created a logical data model for each department ( Marketing team, finance team, customer satisfaction interested parties).
 
-6. Created the physical data model using MySQL.
+7. Created a physical data model using MySQL.
 
-7. We tried to fill our physical data model with fake records using the logic builder in the ERD system we created at the beginning, so we can test our queries and answer needed questions.
+8. We populated our physical data model with fictitious records using the logic based on the ERD system we developed initially. This allowed us to test our queries and provide answers to required questions.
 
 ### 📌 Exploring the project:
-> 1. You can start by viewing the Drafted document and ERD system, where we start collecting ideas and inserting our findings
+> 1. You can start by viewing the Drafted document and ERD system, where we start collecting ideas and inserting our findings.
 
-> 2. Then you can find our final 3 logical data models ( Finance, activity, Feedback), each model has its attached Word document that explains the model contents
+> 2. Then you can find our final 3 logical data models ( Finance, activity, Feedback),  each with an attached Word document explaining their contents.
 
-> 3. The next step is to view the physical data model
+> 3. The next step is to view the physical data model.
 
-> 4. Finally, you can view the "queries.xlsx" where you can find how we answered each department's needed inquiries using our DWH
+> 4. Finally, you can Check the "queries.xlsx" file to see how each department's needed inquiries were answered using our DWHs.
+
