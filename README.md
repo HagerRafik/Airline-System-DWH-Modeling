@@ -20,35 +20,43 @@ kind of analysis for decision support.
 
 ### project prequirments:
 > 1. State the dimensional modeling process for each business process
-
 > 2. Using any diagramming tool you like, construct a logical data model for this case
 study. Output should be an image or PDF. State why did you choose this
 particular data model design? What does the data represent? (Details about each
 model component is necessary).
-> 4. Translate the logical data model to a physical data model which includes the
+> 3. Translate the logical data model to a physical data model which includes the
 following: tables, columns (name, data type), primary indexes, and foreign indexes
 and state why these types of indexes are used for each column. Output should be a
 Word or Excel file.
-> 5. Create the table in oracle DBMS and populate sample data to be used in your
+> 4. Create the table in oracle DBMS and populate sample data to be used in your
 queries.
-> 6. Construct a sample of SQL queries (5 – 8 queries) using your physical model design
+> 5. Construct a sample of SQL queries (5 – 8 queries) using your physical model design
 which can be used to answer possible questions by the .decision maker as
 described in the case-study above. List the business question with each query.
 Output should be a Word file
-> 7. A report of maximum 2 pages is required to elaborate different types of indexes
+> 6. A report of maximum 2 pages is required to elaborate different types of indexes
 used in Data warehousing and their usage
 
 ### 📌 Project phases:
 1. Extracted and understood each business process objectives, terminologies, and activities from the project assigned PDF.
-3. Created a draft Word doc with our findings regarding each department's needed queries that we need to answer with our model.
-4. Created a prototype ERD in Excel with about 5 records for each table to visualize how the business would flow in the transactional DB. starting from a customer purchasing a ticket, how the purchase is recorded, what tables this transaction could affect, how this action flows, and making sure that the whole process is logical without any gaps.
-5. Now we can plan our DWH that in real life would extract the needed data from the transactional database 
-6. Created a logical data model for each business process ( Marketing team, finance team, customer satisfaction interested parties)
-7. Created the physical data model using MySQL.
-8. We tried to fill our physical data model with fake records using the logic builder in the ERD system we created at the beginning, so we can test our queries and answer needed questions.
+
+2. Created a draft Word doc with our findings regarding each department's needed queries that we need to answer with our model.
+  
+3. Created a prototype ERD in Excel with about 5 records for each table to visualize how the business would flow in the transactional DB. starting from a customer purchasing a ticket, how the purchase is recorded, what tables this transaction could affect, how this action flows, and making sure that the whole process is logical without any gaps.
+
+4. Now we can plan our DWH that in real life would extract the needed data from the transactional database.
+   
+5. Created a logical data model for each business process ( Marketing team, finance team, customer satisfaction interested parties).
+
+6. Created the physical data model using MySQL.
+
+7. We tried to fill our physical data model with fake records using the logic builder in the ERD system we created at the beginning, so we can test our queries and answer needed questions.
 
 ### 📌 Exploring the project:
 > 1. You can start by viewing the Drafted document and ERD system, where we start collecting ideas and inserting our findings
+
 > 2. Then you can find our final 3 logical data models ( Finance, activity, Feedback), each model has its attached Word document that explains the model contents
-> 3. The next step is to view the physical data model 
+
+> 3. The next step is to view the physical data model
+
 > 4. Finally, you can view the "queries.xlsx" where you can find how we answered each department's needed inquiries using our DWH
