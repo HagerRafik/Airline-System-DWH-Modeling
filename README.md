@@ -37,8 +37,17 @@ Output should be a Word file
 > 6. A report of maximum 2 pages is required to elaborate different types of indexes
 used in Data warehousing and their usage
 
-### 📌Project phases:
-> 1. extracted and understanding each business process objectives, terminologies and activities from the project assigned PDF.
-> 2. created a 
+### 📌 Project phases:
+> 1. Extracted and understood each business process objectives, terminologies, and activities from the project assigned PDF.
+> 3. Created a draft Word doc with our findings regarding each department's needed queries that we need to answer with our model.
+> 4. Created a prototype ERD in Excel with about 5 records for each table to visualize how the business would flow in the transactional DB. starting from a customer purchasing a ticket, how the purchase is recorded, what tables this transaction could affect, how this action flows, and making sure that the whole process is logical without any gaps.
+> 5. Now we can plan our DWH that in real life would extract the needed data from the transactional database 
+> 6. Created a logical data model for each business process ( Marketing team, finance team, customer satisfaction interested parties)
+> 7. Created the physical data model using MySQL.
+> 8. We tried to fill our physical data model with fake records using the logic builder in the ERD system we created at the beginning, so we can test our queries and answer needed questions.
 
-
+### 📌 Exploring the project:
+> 1. You can start by viewing the Drafted document and ERD system, where we start collecting ideas and inserting our findings
+> 2. Then you can find our final 3 logical data models ( Finance, activity, Feedback), each model has its attached Word document that explains the model contents
+> 3. The next step is to view the physical data model 
+> 4. Finally, you can view the "queries.xlsx" where you can find how we answered each department's needed inquiries using our DWH
