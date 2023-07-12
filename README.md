@@ -53,11 +53,11 @@ used in Data warehousing and their usage
 8. We populated our physical data model with fictitious records using the logic based on the ERD system we developed initially. This allowed us to test our queries and provide answers to required questions.
 
 ### 📌 Exploring the project:
-> 1. You can start by viewing the Drafted document and ERD system, where we start collecting ideas and inserting our findings.
+> 1. you can find our final 3 logical data models ( Finance, activity, Feedback),  each with an attached Word document explaining their contents.
 
-> 2. Then you can find our final 3 logical data models ( Finance, activity, Feedback),  each with an attached Word document explaining their contents.
+> 2. The next step is to view the physical data model.
 
-> 3. The next step is to view the physical data model.
+> 3. Finally, you can Check the "queries.xlsx" file to see how each department's needed inquiries were answered using our DWHs.
 
-> 4. Finally, you can Check the "queries.xlsx" file to see how each department's needed inquiries were answered using our DWHs.
+> 4. Also you can view the Drafted document and ERD system, where we start collecting ideas and inserting our findings.
 
